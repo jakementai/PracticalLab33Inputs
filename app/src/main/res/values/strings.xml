@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UWU Insurance Premium Calculator</string>
+    <string name="TxtAge">Age</string>
+    <string name="txtGender">Gender</string>
+    <string name="txtMale">Male</string>
+    <string name="txtFemale">Female</string>
+    <string name="txtUndecided">Both</string>
+    <string name="chkBoxString">I am a Smoker</string>
+    <string name="txtPremium">Premium</string>
+    <string name="buttText">Reset</string>
+    <string name="buttTxt2">Calculate</string>
+    <string-array name="age_group">
+        <item>Less than 6</item>
+        <item>6 to 10</item>
+        <item>11 to 16</item>
+        <item>17 to 21</item>
+        <item>22 to 30</item>
+        <item>31 to 40</item>
+        <item>41 to 50</item>
+        <item>More than 50</item>
+    </string-array>
+</resources>
